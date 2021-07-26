@@ -1,0 +1,19 @@
+h1{
+    background-color: black;
+    color: white;
+}
+
+.contenedor{
+ background-color: yellow;
+
+}
+
+#parrafo{
+    color: teal;
+
+}
+
+.boton{
+    background: green;
+    color: tomato;
+}
